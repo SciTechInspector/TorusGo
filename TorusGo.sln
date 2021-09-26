@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorusGo", "TorusGo\TorusGo.csproj", "{40CEBB7B-0F06-48BD-8F9F-ED1CF4B4487F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TorusGo", "TorusGo\TorusGo.csproj", "{40CEBB7B-0F06-48BD-8F9F-ED1CF4B4487F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSlide", "..\DSlide\DSlide\DSlide\DSlide.csproj", "{94E226D9-37C5-4B94-80B8-F1916AB65C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorugGoConsole", "TorugGoConsole\TorugGoConsole.csproj", "{9A29239B-1392-435A-A88A-1396797034FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorusGoCore", "TorusGoCore\TorusGoCore.csproj", "{12D7D35F-124E-4FA2-A1D8-355163B1AE68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{40CEBB7B-0F06-48BD-8F9F-ED1CF4B4487F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40CEBB7B-0F06-48BD-8F9F-ED1CF4B4487F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40CEBB7B-0F06-48BD-8F9F-ED1CF4B4487F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94E226D9-37C5-4B94-80B8-F1916AB65C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E226D9-37C5-4B94-80B8-F1916AB65C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E226D9-37C5-4B94-80B8-F1916AB65C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E226D9-37C5-4B94-80B8-F1916AB65C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A29239B-1392-435A-A88A-1396797034FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A29239B-1392-435A-A88A-1396797034FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A29239B-1392-435A-A88A-1396797034FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A29239B-1392-435A-A88A-1396797034FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D7D35F-124E-4FA2-A1D8-355163B1AE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D7D35F-124E-4FA2-A1D8-355163B1AE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D7D35F-124E-4FA2-A1D8-355163B1AE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D7D35F-124E-4FA2-A1D8-355163B1AE68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
