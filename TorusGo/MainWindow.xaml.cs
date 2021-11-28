@@ -22,6 +22,8 @@ namespace TorusGo
     {
         public MainWindow()
         {
+            DrawingGroup drawing;
+            Image
             InitializeComponent();
         }
     }
